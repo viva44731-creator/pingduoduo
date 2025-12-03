@@ -1,0 +1,5 @@
+{
+  "name": "PDD Smart CS Bot",
+  "description": "A Pinduoduo-style e-commerce intelligent customer service system featuring pre-sales inquiries, post-sales support, multi-language capabilities, and an admin analytics dashboard.",
+  "requestFramePermissions": []
+}
